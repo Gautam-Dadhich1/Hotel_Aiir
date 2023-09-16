@@ -1,0 +1,304 @@
+{
+    "hotels":[
+    {
+        "id": 1,
+        "name": "Oceanview Paradise",
+        "city": "Palm Beach",
+        "rating": 4.0
+    },
+    {
+        "id": 2,
+        "name": "Crystal Oasis",
+        "city": "Coral Springs",
+        "rating": 4.2
+    },
+    {
+        "id": 3,
+        "name": "Sunset Serenity",
+        "city": "Sapphire Bay",
+        "rating": 3.9
+    },
+    {
+        "id": 4,
+        "name": "Golden Sands",
+        "city": "Emerald Cove",
+        "rating": 4.5
+    },
+    {
+        "id": 5,
+        "name": "Mountain View",
+        "city": "Ruby Ridge",
+        "rating": 3.8
+    },
+    {
+        "id": 6,
+        "name": "Tranquil Haven",
+        "city": "Amber Beach",
+        "rating": 4.1
+    },
+    {
+        "id": 7,
+        "name": "Starry Night",
+        "city": "Topaz Falls",
+        "rating": 3.7
+    },
+    {
+        "id": 8,
+        "name": "Royal Retreat",
+        "city": "Sapphire Springs",
+        "rating": 4.3
+    },
+    {
+        "id": 9,
+        "name": "Alpine Escape",
+        "city": "Pearl Haven",
+        "rating": 3.5
+    },
+    {
+        "id": 10,
+        "name": "Crystal Cove",
+        "city": "Opal Beach",
+        "rating": 4.7
+    },
+    {
+        "id": 11,
+        "name": "Sapphire Palace",
+        "city": "Crimson Bay",
+        "rating": 3.6
+    },
+    {
+        "id": 12,
+        "name": "Whispering Woods",
+        "city": "Golden Grove",
+        "rating": 4.0
+    },
+    {
+        "id": 13,
+        "name": "Tranquil Waters",
+        "city": "Silver Shore",
+        "rating": 4.6
+    },
+    {
+        "id": 14,
+        "name": "City Heights",
+        "city": "Amethyst City",
+        "rating": 3.2
+    },
+    {
+        "id": 15,
+        "name": "Emerald Suites",
+        "city": "Ruby Coast",
+        "rating": 4.4
+    },
+    {
+        "id": 16,
+        "name": "Blue Horizon",
+        "city": "Sapphire Ridge",
+        "rating": 3.9
+    },
+    {
+        "id": 17,
+        "name": "Mountain Lodge",
+        "city": "Emerald Valley",
+        "rating": 4.2
+    },
+    {
+        "id": 18,
+        "name": "Villa Serenity",
+        "city": "Crystal Springs",
+        "rating": 4.8
+    },
+    {
+        "id": 19,
+        "name": "Alpine Retreat",
+        "city": "Amber Bay",
+        "rating": 4.2
+    },
+    {
+        "id": 20,
+        "name": "Emerald Suites",
+        "city": "Opal Coast",
+        "rating": 3.5
+    },
+    {
+        "id": 21,
+        "name": "Tranquil Waters",
+        "city": "Crimson Cove",
+        "rating": 3.7
+    },
+    {
+        "id": 22,
+        "name": "Emerald Suites",
+        "city": "Amber Ridge",
+        "rating": 4.6
+    },
+    {
+        "id": 23,
+        "name": "Rose Garden",
+        "city": "Sapphire Grove",
+        "rating": 3.4
+    },
+    {
+        "id": 24,
+        "name": "Sunflower Inn",
+        "city": "Crystal Cove",
+        "rating": 4.2
+    },
+    {
+        "id": 25,
+        "name": "Crystal Clear",
+        "city": "Silver Falls",
+        "rating": 3.8
+    },
+    {
+        "id": 26,
+        "name": "Paradise Resort",
+        "city": "Emerald Beach",
+        "rating": 3.4
+    },
+    {
+        "id": 27,
+        "name": "Golden Gate",
+        "city": "Coral Bay",
+        "rating": 3.6
+    },
+    {
+        "id": 28,
+        "name": "Royal Residency",
+        "city": "Sapphire Oasis",
+        "rating": 4.9
+    },
+    {
+        "id": 29,
+        "name": "Tranquil Waters",
+        "city": "Pearl Beach",
+        "rating": 4.7
+    },
+    {
+        "id": 30,
+        "name": "Paradise Resort",
+        "city": "Ruby City",
+        "rating": 3.5
+    },
+    {
+        "id": 31,
+        "name": "Grand Plaza",
+        "city": "Crimson Haven",
+        "rating": 4.3
+    },
+    {
+        "id": 32,
+        "name": "Sapphire Palace",
+        "city": "Amethyst Bay",
+        "rating": 3.7
+    },
+    {
+        "id": 33,
+        "name": "Palm Grove",
+        "city": "Pearl Haven",
+        "rating": 3.8
+    },
+    {
+        "id": 34,
+        "name": "Harbor Lights",
+        "city": "Emerald Shore",
+        "rating": 3.7
+    },
+    {
+        "id": 35,
+        "name": "Sunrise Inn",
+        "city": "Ruby Coast",
+        "rating": 4.6
+    },
+    {
+        "id": 36,
+        "name": "Grand Plaza",
+        "city": "Opal Valley",
+        "rating": 4.2
+    },
+    {
+        "id": 37,
+        "name": "Tropical Haven",
+        "city": "Crystal Haven",
+        "rating": 4.8
+    },
+    {
+        "id": 38,
+        "name": "Imperial Palace",
+        "city": "Amethyst Springs",
+        "rating": 4.0
+    },
+    {
+        "id": 39,
+        "name": "Oasis Resort",
+        "city": "Sapphire Ridge",
+        "rating": 3.7
+    },
+    {
+        "id": 40,
+        "name": "Sunset Villa",
+        "city": "Emerald City",
+        "rating": 4.4
+    },
+    {
+        "id": 41,
+        "name": "Starlight Inn",
+        "city": "Amethyst Falls",
+        "rating": 4.2
+    },
+    {
+        "id": 42,
+        "name": "Tropical Haven",
+        "city": "Coral Bay",
+        "rating": 4.1
+    },
+    {
+        "id": 43,
+        "name": "Riverfront Suites",
+        "city": "Sapphire Haven",
+        "rating": 4.5
+    },
+    {
+        "id": 44,
+        "name": "Whispering Oaks",
+        "city": "Ruby Shore",
+        "rating": 4.0
+    },
+    {
+        "id": 45,
+        "name": "Seaside Retreat",
+        "city": "Emerald Beach",
+        "rating": 4.6
+    },
+    {
+        "id": 46,
+        "name": "Whispering Oaks",
+        "city": "Crimson Ridge",
+        "rating": 3.0
+    },
+    {
+        "id": 47,
+        "name": "Sunset Harbor",
+        "city": "Amethyst City",
+        "rating": 4.4
+    },
+    {
+        "id": 48,
+        "name": "Green Valley",
+        "city": "Sapphire Grove",
+        "rating": 4.9
+    },
+    {
+        "id": 49,
+        "name": "Whispering Pines",
+        "city": "Pearl Beach",
+        "rating": 4.4
+    },
+    {
+        "id": 50,
+        "name": "Whispering Oaks",
+        "city": "Ruby Valley",
+        "rating": 4.9
+    }
+    ]
+}    

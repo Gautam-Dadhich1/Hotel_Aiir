@@ -1,0 +1,422 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Luxury Palace Hotel",
+      "city": "Noida",
+      "images": [
+        "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+      ],
+      "star": 5,
+      "rating": 4.2,
+      "reviews": [
+        {
+          "user": "Aditya Singh",
+          "rating": 4,
+          "comment": "Great hotel with excellent service."
+        },
+        {
+          "user": "Jane Smith",
+          "rating": 5,
+          "comment": "Beautiful rooms and delicious food."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "City View Hotel",
+      "city": "New Delhi",
+      "images": [
+        "https://images.unsplash.com/photo-1625244724120-1fd1d34d00f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG90ZWxzfGVufDB8fDB8fHww&w=1000&q=80"
+      ],
+      "star": 4,
+      "rating": 4.0,
+      "reviews": [
+        {
+          "user": "Aman Vashistha",
+          "rating": 3,
+          "comment": "Good hotel, but could use some improvements."
+        },
+        {
+          "user": "Bob Brown",
+          "rating": 4,
+          "comment": "Nice stay with friendly staff."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Royal Marriott",
+      "city": "Jaipur",
+      "images": [
+        "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?cs=srgb&dl=pexels-pixabay-258154.jpg&fm=jpg"
+      ],
+      "star": 5,
+      "rating": 4.5,
+      "reviews": [
+        {
+          "user": "David Wilson",
+          "rating": 5,
+          "comment": "Exceptional hotel with top-notch service."
+        },
+        {
+          "user": "Ella Davis",
+          "rating": 5,
+          "comment": "A wonderful experience. I highly recommend it."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Grand Hyatt Luxury",
+      "city": "Mumbai",
+      "images": [
+        "https://img.freepik.com/premium-photo/minsk-belarus-august-2017-columns-guestroom-hall-reception-modern-luxury-hotel_97694-6572.jpg"
+      ],
+      "star": 5,
+      "rating": 4.7,
+      "reviews": [
+        {
+          "user": "Olivia White",
+          "rating": 5,
+          "comment": "Luxurious hotel with fantastic amenities."
+        },
+        {
+          "user": "Liam Harris",
+          "rating": 4,
+          "comment": "Great view from the room."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Royal Taj Palace",
+      "city": "New Delhi",
+      "images": [
+        "https://t3.ftcdn.net/jpg/00/29/13/38/360_F_29133877_bfA2n7cWV53fto2BomyZ6pyRujJTBwjd.jpg"
+      ],
+      "star": 5,
+      "rating": 4.9,
+      "reviews": [
+        {
+          "user": "Mia Martin",
+          "rating": 5,
+          "comment": "Absolutely stunning! The best hotel in Delhi."
+        },
+        {
+          "user": "Noah Anderson",
+          "rating": 5,
+          "comment": "A royal experience. Loved every moment."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Sheraton Grand View",
+      "city": "Bangalore",
+      "images": [
+        "https://www.usatoday.com/gcdn/-mm-/05b227ad5b8ad4e9dcb53af4f31d7fbdb7fa901b/c=0-64-2119-1259/local/-/media/USATODAY/USATODAY/2014/08/13/1407953244000-177513283.jpg"
+      ],
+      "star": 4,
+      "rating": 4.2,
+      "reviews": [
+        {
+          "user": "Aiden Garcia",
+          "rating": 4,
+          "comment": "Good value for money."
+        },
+        {
+          "user": "Sofia Rodriguez",
+          "rating": 4,
+          "comment": "Comfortable and well-located."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Leela Palace",
+      "city": "Chennai",
+      "images": [
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/464303942.jpg?k=24e506ebac37b9faee6d31c754f97af1b1362355fc4a28cf7bb4ec72624cfc5d&o=&hp=1"
+      ],
+      "star": 5,
+      "rating": 4.8,
+      "reviews": [
+        {
+          "user": "Ethan Martinez",
+          "rating": 5,
+          "comment": "Exquisite hotel with impeccable service."
+        },
+        {
+          "user": "Ava Turner",
+          "rating": 4,
+          "comment": "Beautiful location and great dining options."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Blu Radisson",
+      "city": "Jaipur",
+      "images": [
+        "https://cdn.britannica.com/96/115096-050-5AFDAF5D/Bellagio-Hotel-Casino-Las-Vegas.jpg"
+      ],
+      "star": 4,
+      "rating": 4.4,
+      "reviews": [
+        {
+          "user": "Lily Anderson",
+          "rating": 4,
+          "comment": "Good value for the price."
+        },
+        {
+          "user": "Lucas Wright",
+          "rating": 5,
+          "comment": "Excellent service and clean rooms."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Hyatt Regency",
+      "city": "Kolkata",
+      "images": [
+        "https://m.economictimes.com/thumb/msid-73023854,width-1200,height-900,resizemode-4,imgsize-235513/hotel-agencies.jpg"
+      ],
+      "star": 4,
+      "rating": 4.3,
+      "reviews": [
+        {
+          "user": "Henry Wood",
+          "rating": 4,
+          "comment": "Nice hotel with a convenient location."
+        },
+        {
+          "user": "Ella Johnson",
+          "rating": 3,
+          "comment": "Decent stay, but nothing extraordinary."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Hilton Garden View",
+      "city": "Mumbai",
+      "images": [
+        "https://www.ohotelsindia.com/pune/images/13c6386862540c41822c39464b130b65.jpg"
+      ],
+      "star": 4,
+      "rating": 4.5,
+      "reviews": [
+        {
+          "user": "Oliver Scott",
+          "rating": 5,
+          "comment": "Close to the airport, excellent for business travelers."
+        },
+        {
+          "user": "Sophia Turner",
+          "rating": 4,
+          "comment": "Comfortable stay, friendly staff."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Marriott Luxury",
+      "city": "New Delhi",
+      "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/a1/9c/80/essentia-luxury-hotel.jpg?w=700&h=-1&s=1"
+      ],
+      "star": 5,
+      "rating": 4.7,
+      "reviews": [
+        {
+          "user": "Aiden Lewis",
+          "rating": 5,
+          "comment": "Outstanding hotel, worth every penny."
+        },
+        {
+          "user": "Sofia Adams",
+          "rating": 4,
+          "comment": "Great food and comfortable rooms."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Luxury Ritz-Carlton",
+      "city": "Bangalore",
+      "images": [
+        "https://images.moneycontrol.com/static-mcnews/2021/04/Roof-top-pool-2-taj-goa-770x433.jpg?impolicy=website&width=770&height=431"
+      ],
+      "star": 5,
+      "rating": 4.9,
+      "reviews": [
+        {
+          "user": "Ethan King",
+          "rating": 5,
+          "comment": "Unparalleled luxury and service."
+        },
+        {
+          "user": "Ava Turner",
+          "rating": 5,
+          "comment": "Exquisite experience, highly recommended."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Grand ITC Chola",
+      "city": "Chennai",
+      "images": [
+        "https://media.timeout.com/images/105938335/image.jpg"
+      ],
+      "star": 5,
+      "rating": 4.7,
+      "reviews": [
+        {
+          "user": "Ethan Lewis",
+          "rating": 5,
+          "comment": "A grand hotel with excellent dining options."
+        },
+        {
+          "user": "Ava Turner",
+          "rating": 4,
+          "comment": "Beautiful architecture and spacious rooms."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Pink City Fairmont",
+      "city": "Jaipur",
+      "images": [
+        "https://static.toiimg.com/thumb/msid-92078873,width-1070,height-580,resizemode-75,imgsize-92078873,pt-32,y_pad-40/92078873.jpg"
+      ],
+      "star": 5,
+      "rating": 4.6,
+      "reviews": [
+        {
+          "user": "Ella Turner",
+          "rating": 5,
+          "comment": "An unforgettable stay in the Pink City."
+        },
+        {
+          "user": "Mia Davis",
+          "rating": 4,
+          "comment": "Lovely hotel with great hospitality."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Historic Oberoi Grand",
+      "city": "Kolkata",
+      "images": [
+        "https://thehoughtonhotel.com/wp-content/uploads/2023/02/Houghton-Hotel-3-20-scaled.jpg"
+      ],
+      "star": 5,
+      "rating": 4.8,
+      "reviews": [
+        {
+          "user": "Henry Lewis",
+          "rating": 5,
+          "comment": "A classic hotel with top-notch service."
+        },
+        {
+          "user": "Liam Wright",
+          "rating": 4,
+          "comment": "Historic charm and luxurious comfort."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Airport Hilton Mumbai",
+      "city": "Mumbai",
+      "images": [
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386516730.jpg?k=010021c4b79cf89b87e870b394f725293dc1b4d422a19c1da36869aebcc63904&o=&hp=1"
+      ],
+      "star": 4,
+      "rating": 4.6,
+      "reviews": [
+        {
+          "user": "Olivia White",
+          "rating": 5,
+          "comment": "Conveniently located near the airport."
+        },
+        {
+          "user": "Liam Harris",
+          "rating": 4,
+          "comment": "Comfortable stay for business travelers."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "The Royal Lalit",
+      "city": "New Delhi",
+      "images": [
+        "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2022/04/12/1329/MUMGH-P0765-Inner-Courtyard-Hotel-Exterior-Evening.jpg/MUMGH-P0765-Inner-Courtyard-Hotel-Exterior-Evening.16x9.jpg"
+      ],
+      "star": 5,
+      "rating": 4.7,
+      "reviews": [
+        {
+          "user": "Mia Martin",
+          "rating": 5,
+          "comment": "A luxurious hotel with excellent dining."
+        },
+        {
+          "user": "Noah Anderson",
+          "rating": 5,
+          "comment": "Great place for a memorable stay."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Whitefield Marriott",
+      "city": "Bangalore",
+      "images": [
+        "https://www.oberoihotels.com/-/media/oberoi-hotels/website-images/the-oberoi-amarvilas-agra/overview-jpg/experiences-jpg/dine-under-the-stars-c.jpg?w=777&hash=0c39fa3c41934f6fda9b0550873fec83"
+      ],
+      "star": 5,
+      "rating": 4.6,
+      "reviews": [
+        {
+          "user": "Aiden Garcia",
+          "rating": 4,
+          "comment": "Comfortable stay with great amenities."
+        },
+        {
+          "user": "Sofia Rodriguez",
+          "rating": 4,
+          "comment": "Well-maintained hotel in a nice area."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Tranquil Taj West End",
+      "city": "Bangalore",
+      "images": [
+        "https://www.holidify.com/images/cmsuploads/compressed/182498341_20210809085423.jpg"
+      ],
+      "star": 5,
+      "rating": 4.7,
+      "reviews": [
+        {
+          "user": "Ella Smith",
+          "rating": 5,
+          "comment": "A tranquil oasis in the bustling city."
+        },
+        {
+          "user": "Liam Johnson",
+          "rating": 4,
+          "comment": "Beautiful gardens and comfortable rooms."
+        }
+      ]
+    }
+  ]
+}
